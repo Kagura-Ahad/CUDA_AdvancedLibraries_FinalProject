@@ -1,0 +1,64 @@
+(MyVenv) myPC:~/Downloads/C4_Project$ /home/myPC/MyVenv/bin/python /home/myPC/Downloads/C4_Project/gpu_image_processor.py
+Loading image...
+Image shape: (1080, 1920, 3)
+Image size: 23.73 MB
+
+Applying blur...
+Saved: output/sample_image_1_blurred.png
+GPU processing time: 0.1672 seconds
+
+Applying edge...
+Saved: output/sample_image_1_edges.png
+GPU processing time: 0.0123 seconds
+
+Applying sharpen...
+Saved: output/sample_image_1_sharpened.png
+GPU processing time: 0.0034 seconds
+
+Applying brighten...
+Saved: output/sample_image_1_brightened.png
+GPU processing time: 0.0072 seconds
+Task completed and output files saved to: output
+(MyVenv) myPC:~/Downloads/C4_Project$ /home/myPC/MyVenv/bin/python /home/myPC/Downloads/C4_Project/gpu_image_processor.py
+Loading image...
+Image shape: (1080, 1920, 3)
+Image size: 23.73 MB
+
+Applying blur...
+Saved: output/sample_image_detailed_blurred.png
+GPU processing time: 0.0711 seconds
+
+Applying edge...
+Saved: output/sample_image_detailed_edges.png
+GPU processing time: 0.0123 seconds
+
+Applying sharpen...
+Saved: output/sample_image_detailed_sharpened.png
+GPU processing time: 0.0034 seconds
+
+Applying brighten...
+Saved: output/sample_image_detailed_brightened.png
+GPU processing time: 0.0072 seconds
+Task completed and output files saved to: output
+(MyVenv) myPC:~/Downloads/C4_Project$ /home/myPC/MyVenv/bin/python /home/myPC/Downloads/C4_Project/gpu_image_processor.py
+Loading image...
+Image shape: (600, 800, 3)
+Image size: 5.49 MB
+
+Applying blur...
+Saved: output/sample_image_small_blurred.png
+GPU processing time: 0.0611 seconds
+
+Applying edge...
+Saved: output/sample_image_small_edges.png
+GPU processing time: 0.0054 seconds
+
+Applying sharpen...
+Saved: output/sample_image_small_sharpened.png
+GPU processing time: 0.0011 seconds
+
+Applying brighten...
+Saved: output/sample_image_small_brightened.png
+GPU processing time: 0.0105 seconds
+Task completed and output files saved to: output
+(MyVenv) myPC:~/Downloads/C4_Project$ 
